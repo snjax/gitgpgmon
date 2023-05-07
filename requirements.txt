@@ -1,0 +1,4 @@
+pillow
+pystray
+PyGObject
+configparser
